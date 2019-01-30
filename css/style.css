@@ -551,6 +551,11 @@ a.icon {
     margin-bottom: 25px;
 }
 
+.img-port {
+    width: 350px;
+    height: 350px;
+}
+
 .iso-box > a {
     display: block;
     width: 100%;
